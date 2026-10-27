@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab6.3rek/lab6.3rek.vcxproj" />
+  <Project Path="lab6.3rekunit/lab6.3rekunit.vcxproj" />
+</Solution>
